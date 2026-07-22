@@ -1,2 +1,2 @@
-# LayananDigitalTerpaduDinas-Kesehatan-Kab.Asmat
+# LayananDigitalTerpaduDinasKesehatanKab.Asmat
 Layanan Publik dan Informasi Digital Dinkes kab. Asmat
